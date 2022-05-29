@@ -1,1 +1,4 @@
 
+bug report
+  open
+  close
