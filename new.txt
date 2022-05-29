@@ -1,0 +1,4 @@
+Name - Anil
+Age - 44
+Pet - none
+Salary - max
